@@ -1,0 +1,10 @@
+[project]
+name = "govee-screen"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "bleak>=3.1.0",
+    "numpy>=2.5.5",
+    "pyobjc-framework-quartz>=13.1",
+    "pyobjc-framework-screencapturekit>=13.1",
+]

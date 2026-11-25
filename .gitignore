@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.govee_address
+macos/.build/
+macos/build/
+.DS_Store
